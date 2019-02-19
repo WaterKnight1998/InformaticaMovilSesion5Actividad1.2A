@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InformaticaMovilSesion5</string>
+    <string name="boton_count">Count</string>
+    <string name="boton_toast">Toast</string>
+    <string name="texto_count">0</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>
